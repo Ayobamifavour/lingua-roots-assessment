@@ -1,0 +1,18 @@
+export const colors = {
+  background: '#F4F1E6',
+  card: '#FFFFFF',
+  cardBorder: '#E4DFC9',
+  path: '#8B5E34',
+  forest: '#3D7A3D',
+  forestDark: '#2C5A2C',
+  gold: '#F5B400',
+  goldDark: '#C98F00',
+  correct: '#4CAF50',
+  correctBg: '#E7F6E7',
+  incorrect: '#E5533D',
+  incorrectBg: '#FBEAE7',
+  textPrimary: '#2E2A1F',
+  textSecondary: '#7A7462',
+  white: '#FFFFFF',
+  progressTrack: '#E4DFC9',
+};
